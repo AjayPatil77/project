@@ -1,0 +1,40 @@
+.sep
+{
+	height: 30px;
+	width: 100%;
+	background-color: cyan;
+	padding-left: 40px;
+	padding-top: 7px;
+	font-size: 20px;
+	font-weight: bolder;
+}
+.obj1
+{
+	margin-left: 20px;
+
+}
+
+.summ
+{
+	list-style-type: none;
+}
+
+.dec1
+{
+	margin-left: 30px;
+}
+
+.name
+{
+	font-size: 18px;
+	font-weight: bolder;
+	float: right;
+	margin-right: 20px;
+}
+
+.date
+{
+	font-size: 18px;
+	margin-left: 20px;
+	font-weight: bolder;
+}
